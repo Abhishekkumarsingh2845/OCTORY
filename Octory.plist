@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -118,7 +119,7 @@
                                 <key>TextAlignment</key>
                                 <string>Center</string>
                                 <key>Size</key>
-                                <integer>90</integer> <!-- Increase the font size here -->
+                                <integer>80</integer> <!-- Increase the font size here -->
                             </dict>
                         </dict>
                         <dict>
@@ -187,7 +188,7 @@
                             <key>Type</key>
                             <string>Video</string>
                             <key>URL</key>
-                            <string>${Resources}/AAC.mp4</string>
+                            <string>${Resources}/AAB.mp4</string>
                         </dict>
                     </array>
                 </dict>
